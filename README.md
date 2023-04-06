@@ -45,3 +45,5 @@ Test ran on suspension coil data:
 - =.000001585
 - = 0.006384
 # Design a Study Comparing the MechaCar to the Competition
+
+In order to create a good study between the MechaCar and the competition, based on the data as well as the weight of the data possibility for variables, there are many differnt things that can be takingin to consideration; rate of cost // weight, the rate of miles per gallon, applical qualities to the consumer. The goal of pushing the most profitable study for the MechaCar is fully depenndent in the rate of approval across multiple varibles for the consumer. When looking at the range of variables there becomes a schewed range which can be dependent. In this study however I think the most applical value to all to  determine what makes MechaCar superior will be to compare HP with the other variables I listed above. One would need to look to the cutomer reviews but also preform further cutomer analysis on the grade of value that is put on the value of individual variables. 
