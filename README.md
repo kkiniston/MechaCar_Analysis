@@ -17,9 +17,9 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ![Screenshot 2023-04-05 221618](https://user-images.githubusercontent.com/115853964/230270979-dfa0b4d0-dc26-4b0e-8464-3810b60475cb.png)
 
 # Summary Statistics on Suspension Coils 
-Lot 1 = variance of 0.98 PASS
-Lot 2 = variance of 7.47 PASS
-Lot 3 has a variance of 170.29 FAIL
+- Lot 1 = variance of 0.98 PASS
+- Lot 2 = variance of 7.47 PASS
+- Lot 3 has a variance of 170.29 FAIL
 
 ![Screenshot 2023-04-05 221618](https://user-images.githubusercontent.com/115853964/230270979-dfa0b4d0-dc26-4b0e-8464-3810b60475cb.png)
 
@@ -31,4 +31,17 @@ Lot 3 has a variance of 170.29 FAIL
 ![Screenshot 2023-04-05 221649](https://user-images.githubusercontent.com/115853964/230271011-36adf5cb-82cb-4850-8b31-2de60f8a5bdc.png)
 ![Screenshot 2023-04-05 221713](https://user-images.githubusercontent.com/115853964/230271096-786c6a66-59b9-47de-8394-d08a01f5fd08.png)
 
+
+Test ran on suspension coil data:
+
+- **significance level** = 0.05
+- **p-value**
+- < significance level
+- < significance level
+- > significance level
+- > significance level
+- = 0.1458
+- = 0.21
+- =.000001585
+- = 0.006384
 # Design a Study Comparing the MechaCar to the Competition
